@@ -10,4 +10,4 @@ You need to create a .env file in the root folder and add a API key from openwea
 
 The .env file content:
 
-REACT_APP_OPEN_WHEATHER_KEY=<your open weather credential>
+REACT_APP_OPEN_WHEATHER_KEY=\<your open weather credential\>
